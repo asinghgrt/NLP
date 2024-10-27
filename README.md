@@ -5,4 +5,4 @@ Email text preprocessing and cleaning
 Feature extraction using TF-IDF vectorization
 Machine learning classification Naive bayes model
 The Best Model Performance
-Accuracy: 98%
+Accuracy: 97%
